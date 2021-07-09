@@ -8,4 +8,8 @@ A logged in customers can save his/hers favorite products.
 * Javascript
 * Php
 * MySQL 
-# 
+# Registration 
+A customer needs to create an account with a username and a password. 
+After that he/ she can log in. 
+Once logged in they can save their favorite products. 
+# Tasks completed
